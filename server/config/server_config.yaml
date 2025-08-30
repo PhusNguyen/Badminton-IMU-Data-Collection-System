@@ -1,0 +1,22 @@
+# UDP Server Configuration
+udp:
+  host: '0.0.0.0'
+  port: 44444
+  buffer_size: 1024
+
+# Data Storage Configuration  
+storage:
+  raw_sessions_dir: 'data/raw_sessions'
+  processed_dir: 'data/processed'
+
+# Visualization Configuration
+visualization:
+  window_size: 1000
+  update_interval_ms: 10
+  style: 'dark_background'
+
+# Data Processing
+processing:
+  sampling_rate: 100
+  packets_per_message: 10
+  bytes_per_packet: 48
