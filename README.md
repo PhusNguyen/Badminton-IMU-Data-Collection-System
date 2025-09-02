@@ -10,7 +10,7 @@ The system consists of an ESP32-based sensor device that wirelessly transmits re
 ## ⚡ Hardware Components
 - **ESP32 DevKit** - Main microcontroller with WiFi capability
 - **MPU6050 IMU Sensor** - 6-axis accelerometer and gyroscope
-- **Custom 3D-printed mount** - Secure attachment to badminton racket
+- **Customable mount** - Secure attachment to badminton racket
 - **Li-Po battery** - Portable power solution
 - **LED indicators** - System status feedback
 
