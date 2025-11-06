@@ -3,6 +3,7 @@ Complete hardware and software solution for capturing badminton stroke data usin
 
 ## 🏸 Overview
 The system consists of an ESP32-based sensor device that wirelessly transmits real-time IMU data to a Python server for processing, visualizaing and storage.
+
 ![alt text](/hardware/racket_mount_prototype.png)
 
 ## 🏗️ System Architecture
